@@ -1,6 +1,6 @@
 # Brandon Vu
 
-**Hi my name is Brandon Vu. I am a third year student at the University of Califorina, Irvine majoring in Computer Science with a focus in Intelligent Systems.**
+**Hi my name is Brandon Vu. I am a 3rd year student at the University of Califorina, Irvine majoring in Computer Science with a focus in Intelligent Systems.**
 
 I am interested in Artificial Intelligence, specifically in human interaction with computers. This had lead me down a path of writing programs that can recognize confused facial expressions and evenutally integrating my Goole Home assistant into my daily life to efficently go about my day. I hope to gain more experience professionally and grow outside the classroom. Feel free to reach out as I have provided my LinkedIn profile and email below! 😄
 
