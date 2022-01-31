@@ -6,7 +6,7 @@ I am interested in Artificial Intelligence, specifically in human interaction wi
 
 
 [LinkedIn](https://www.linkedin.com/in/brandomv/)  
-[Email](bvu106038@gmail.com)
+[Email](https://mail.google.com/mail/u/0/?fs=1&to=bvu106038@gmail.com&tf=cm)
 
 
 <!--
